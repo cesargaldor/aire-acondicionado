@@ -1,0 +1,8 @@
+bin/
+obj/
+build/
+*.user
+.vs/
+# Contienen el token y la key de tu aire: no los subas nunca
+aire-config.json
+*.config.json
